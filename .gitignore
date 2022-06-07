@@ -1,3 +1,5 @@
+docs_mount.sh
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
